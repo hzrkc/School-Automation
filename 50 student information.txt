@@ -1,0 +1,299 @@
+1-)	Ad:İlker 
+	Soyad:BOZKURT
+	OgrNo:1414
+	Ders Kodu:24
+	Puan:95
+
+2-)	Ad:Demir 
+	Soyad:YÜREKLİ
+	OgrNo:2250
+	Ders Kodu:46
+	Puan:80
+
+3-)	Ad:Mehmet Yavuz
+	Soyad:KARASATI
+	OgrNo:5565
+	Ders Kodu:11
+	Puan:65
+
+4-)	Ad:İlker
+	Soyad:BOZKURT
+	OgrNo:1414
+	Ders Kodu:23
+	Puan:90
+
+5-)	Ad:Mert
+	Soyad:HALAÇOĞLU
+	OgrNo:2134
+	Ders Kodu:44
+	Puan:70
+
+6-)	Ad:Utku
+	Soyad:ŞEBİT
+	OgrNo:7812
+	Ders Kodu:12
+	Puan:82
+
+7-)	Ad:Beril
+	Soyad:AKYILMAZ
+	OgrNo:4235
+	Ders Kodu:64
+	Puan:88
+
+8-)	Ad:Berfin
+	Soyad:BAYRAK
+	OgrNo:1313
+	Ders Kodu:13
+	Puan:93
+
+9-)	Ad:Ayşe Ahsen
+	Soyad:ÇATAK
+	OgrNo:3425
+	Ders Kodu:29
+	Puan:45
+
+10-)	Ad:Özgür
+	Soyad:DEDEOĞLU
+	OgrNo:1027
+	Ders Kodu:22
+	Puan:57
+
+11-)	Ad:Ramazan
+	Soyad:ARICI
+	OgrNo:6785
+	Ders Kodu:18
+	Puan:66
+
+12-)	Ad:İnanç
+	Soyad:BUDAK
+	OgrNo:8962
+	Ders Kodu:52
+	Puan:74
+
+13-)	Ad:Berke
+	Soyad:BAYRAKTAR
+	OgrNo:6789
+	Ders Kodu:25
+	Puan:75
+
+14-)	Ad:Mert
+	Soyad:HALAÇOĞLU
+	OgrNo:2134
+	Ders Kodu:08
+	Puan:85
+
+15-)	Ad:Burak
+	Soyad:GENÇOĞLU
+	OgrNo:6134
+	Ders Kodu:27
+	Puan:55
+
+16-)	Ad:Tuğkan
+	Soyad:GÖNÜLTAŞ
+	OgrNo:3401
+	Ders Kodu:01
+	Puan:55
+
+17-)	Ad:Ahmet
+	Soyad:SONUÇ
+	OgrNo:7007
+	Ders Kodu:07
+	Puan:99
+
+18-)	Ad:Eray
+	Soyad:KESKİN
+	OgrNo:3431
+	Ders Kodu:22
+	Puan:59
+
+19-)	Ad:Kemal Can
+	Soyad:PARLAK
+	OgrNo:4444
+	Ders Kodu:44
+	Puan:44
+
+20-)	Ad:Ferit
+	Soyad:KARAKAYA
+	OgrNo:3333
+	Ders Kodu:44
+	Puan:55
+
+21-)	Ad:Yunus Emre
+	Soyad:KIRCI
+	OgrNo:6161
+	Ders Kodu:61
+	Puan:61
+
+22-)	Ad:Hazar
+	Soyad:KOÇ
+	OgrNo:4141
+	Ders Kodu:41
+	Puan:41
+
+23-)	Ad:Çağrı
+	Soyad:ERGÜN
+	OgrNo:3010
+	Ders Kodu:31
+	Puan:71
+
+24-)	Ad:İlkim
+	Soyad:ÖZERK
+	OgrNo:5469
+	Ders Kodu:32
+	Puan:87
+
+25-)	Ad:Atakan
+	Soyad:ATILGAN
+	OgrNo:4210
+	Ders Kodu:16
+	Puan:25
+
+26-)	Ad:Cem
+	Soyad:BÖLÜKBAŞI
+	OgrNo:4334
+	Ders Kodu:38
+	Puan:82
+
+27-)	Ad:Taner
+	Soyad:KESKİN
+	OgrNo:6253
+	Ders Kodu:55
+	Puan:85
+
+28-)	Ad:Yıldıray
+	Soyad:KURT
+	OgrNo:8694
+	Ders Kodu:35
+	Puan:75
+
+29-)	Ad:Atilla
+	Soyad:VURGUN
+	OgrNo:6486
+	Ders Kodu:34
+	Puan:58
+
+30-)	Ad:Ekrem
+	Soyad:ZENGİN
+	OgrNo:4684
+	Ders Kodu:35
+	Puan:48
+
+31-)	Ad:Erkan
+	Soyad:ÖZMEN
+	OgrNo:6458
+	Ders Kodu:32
+	Puan:45
+
+32-)	Ad:Kerem
+	Soyad:KARTAL
+	OgrNo:8452
+	Ders Kodu:64
+	Puan:24
+
+33-)	Ad:İlkim
+	Soyad:ÖZERK
+	OgrNo:5469
+	Ders Kodu:64
+	Puan:78
+
+34-)	Ad:Hazar
+	Soyad:KOÇ
+	OgrNo:4141
+	Ders Kodu:100
+	Puan:100
+
+35-)	Ad:Yunus Emre
+	Soyad:KIRCI
+	OgrNo:6161
+	Ders Kodu:99
+	Puan:100
+
+36-)	Ad:Murat
+	Soyad:SOYLU
+	OgrNo:1357
+	Ders Kodu:06
+	Puan:60
+
+37-)	Ad:Bora
+	Soyad:ÇAĞIRAN
+	OgrNo:6845
+	Ders Kodu:24
+	Puan:38
+
+38-)	Ad:Kaan
+	Soyad:AYMAN
+	OgrNo:4827
+	Ders Kodu:12
+	Puan:32
+
+39-)	Ad:Ayça
+	Soyad:AYANOĞLU
+	OgrNo:6780
+	Ders Kodu:45
+	Puan:82
+
+40-)	Ad:Mehmet
+	Soyad:SÜMER
+	OgrNo:6715
+	Ders Kodu:68
+	Puan:64
+
+41-)	Ad:Volkan
+	Soyad:ERTAN
+	OgrNo:2123
+	Ders Kodu:23
+	Puan:32
+
+42-)	Ad:Ramiz
+	Soyad:KARAESKİ
+	OgrNo:5533
+	Ders Kodu:44
+	Puan:66
+
+43-)	Ad:Ezel
+	Soyad:BAYRAKTAR
+	OgrNo:4499
+	Ders Kodu:44
+	Puan:99
+
+44-)	Ad:Eyşan
+	Soyad:Atay
+	OgrNo:3377
+	Ders Kodu:55
+	Puan:68
+
+45-)	Ad:Uğur
+	Soyad:KANTARCI
+	OgrNo:4780
+	Ders Kodu:10
+	Puan:70
+
+46-)	Ad:Ufuk
+	Soyad:ÇATAK
+	OgrNo:5064
+	Ders Kodu:40
+	Puan:75
+
+47-)	Ad:Eftelya
+	Soyad:GÜNEBAKAN
+	OgrNo:3030
+	Ders Kodu:30
+	Puan:90
+
+48-)	Ad:Hazal
+	Soyad:KESER
+	OgrNo:1001
+	Ders Kodu:01
+	Puan:100
+
+49-)	Ad:Özlem
+	Soyad:YILDIZ
+	OgrNo:6336
+	Ders Kodu:27
+	Puan:99
+
+50-)	Ad:Ahmet
+	Soyad:AKSOY
+	OgrNo:1657
+	Ders Kodu:16
+	Puan:57
